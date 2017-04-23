@@ -1,0 +1,23 @@
+body 
+{
+    direction:rtl;
+}
+#container{
+    width:960px;
+    margin:0 auto;
+}
+
+label{
+     display:block;
+     margin-top:10px;
+}
+
+input[type ='text'] , input[type ='password'] ,textarea , select {
+    display:block;
+    margin-bottom:15px;
+}
+
+input[type ='submit']
+{
+ margin-top:10px;
+}
